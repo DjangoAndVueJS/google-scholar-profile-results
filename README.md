@@ -4,4 +4,5 @@ google scholar profile resutls using serpApi
 
 # To Do list
 
-- [ ] how to fill database with dictionary
+- [ ] Custom **user** model with **accounts** app
+- [ ] how to fill database with **dictionary**
